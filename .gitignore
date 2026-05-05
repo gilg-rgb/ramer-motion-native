@@ -1,0 +1,9 @@
+node_modules/
+dist/
+lib/
+build/
+.expo/
+*.log
+*.tgz
+.DS_Store
+coverage/
